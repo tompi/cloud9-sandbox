@@ -1,0 +1,2 @@
+{"ts":1345917325365,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1345917420277,"patch":[[{"diffs":[[1,"var mojo = {\n    hobo: function(food) {\n        return \"yuk\";\n    }\n};"]],"start1":0,"start2":0,"length1":0,"length2":70}]],"length":70,"saved":false}
